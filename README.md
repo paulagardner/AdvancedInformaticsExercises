@@ -9,4 +9,4 @@ EE283 homework and links
 
 [Homework5]
 
-[Homework6: Symlinks and non-destructive data organization](https://paulagardner.github.io/InformaticsWeek6HW/)
+[Homework6: Symlinks and non-destructive data organization](https://github.com/paulagardner/InformaticsWeek6HW)
