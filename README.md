@@ -9,7 +9,7 @@ EE283 homework and links
 
 [Homework5](https://github.com/paulagardner/InformaticsWeek5HW): plotting
 
-[Homework6-7: Symlinks and non-destructive data organization, alignments](https://github.com/paulagardner/InformaticsWeek6HW)
+[Homework6-7](https://github.com/paulagardner/InformaticsWeek6HW): Symlinks and non-destructive data organization, alignments
 
 For personal future reference, elizabeth's repo has a great overview of what's going on
 https://github.com/erebboah/AdvancedInformatics_Week6-10_Pipelines
